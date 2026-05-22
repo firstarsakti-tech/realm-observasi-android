@@ -1,0 +1,27 @@
+# Gradle files
+.gradle/
+build/
+*.jar
+*.war
+*.aar
+
+# IDE
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+*.swp
+*~
+
+# Local properties
+local.properties
+
+# Generated files
+/captures
+.externalNativeBuild
+.cxx
+
+# APK
+*.apk
+*.aab
